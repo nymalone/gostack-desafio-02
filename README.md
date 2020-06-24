@@ -35,4 +35,7 @@ São dados complementares ao método http. Temos:
 
 ***
 
-Made with 💜  by [Nykolle Malone](https://www.linkedin.com/in/nykollemalone/)
+<h4 align="center">
+    Made with :coffee: and 💜 by <a href="https://www.linkedin.com/in/nykollemalone/" target="_blank">Nykolle Malone</a>
+</h4>
+
