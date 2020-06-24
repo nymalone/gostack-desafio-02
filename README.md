@@ -1,7 +1,6 @@
 ![Screen Shot 2020-06-24 at 14 40 26](https://user-images.githubusercontent.com/54912285/85605620-b59af580-b628-11ea-9c7a-f318a42dbba3.png)
 <h1 align="center">
   🚀 Conceitos NodeJS 🚀
-  <a href="https://github.com/Rocketseat">
 </h1>
   
 ## 🚀 Desafio 01 
