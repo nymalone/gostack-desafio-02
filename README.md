@@ -5,7 +5,7 @@
 
 #### If you need support with the content, go to my [Notion notes](https://www.notion.so/S01-Back-end-com-Node-js-dc22b035c8204c32ad0085c30b964c10)
   
-## 🚀 Desafio 01 
+## 🚀 Desafio 02 
 A proposta é simples, mas poderosa: criar uma api funcional para gerenciar repositórios fakes do github utilizando CRUD (CREATE READ UPDATE DELETE) e armazenando os dados em varáveis na memória.
 
 Também é possível dar likes nos repositórios salvos.
